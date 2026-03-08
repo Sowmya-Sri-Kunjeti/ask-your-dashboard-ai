@@ -37,6 +37,15 @@ Instead of manually exploring dashboards, users can upload a dataset and interac
 ### Sales Trend
 ![Sales Trend](sales-trend.png)
 
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Natural Language Query Interface
+- 
+
 ## Learning Outcomes
 - Building conversational analytics tools
 - Automating insight generation
