@@ -19,7 +19,7 @@ Instead of manually exploring dashboards, users can upload a dataset and interac
 ## Project Demo
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Sales by Region
 ![Region Sales](screenshots/region-sales.png)
