@@ -1,3 +1,9 @@
+## Live Demo
+
+Try the dashboard here:  
+https://lovable.dev/projects/59733d83-c9e1-4b58-8ca8-0d35562bc210
+
+
 # Ask Your Dashboard – AI Decision Intelligence Assistant
 
 ## Overview
