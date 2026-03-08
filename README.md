@@ -59,3 +59,37 @@ https://lovable.dev/projects/59733d83-c9e1-4b58-8ca8-0d35562bc210
 - Building conversational analytics tools
 - Automating insight generation
 - Designing AI-powered dashboards
+
+  ## Business Questions This Dashboard Answers
+
+- Which region generates the highest sales?
+- Which product categories are most profitable?
+- How are sales trending over time?
+- Which segments contribute the most revenue?
+- Where should the business focus to improve profit?
+
+  ## Dataset
+
+This project uses the Superstore dataset commonly used for analytics and dashboard projects.
+
+Fields include:
+- Order Date
+- Region
+- Category
+- Sales
+- Profit
+- Segment
+
+## Project Structure
+
+ask-your-dashboard-ai
+│
+├── app.py
+├── dataset.csv
+├── requirements.txt
+├── README.md
+└── screenshots
+    ├── dashboard.png
+    ├── region-sales.png
+    ├── category-profit.png
+    └── sales-trend.png
