@@ -11,15 +11,6 @@ Instead of manually exploring dashboards, users can upload a dataset and interac
 Try the dashboard here:  
 https://lovable.dev/projects/59733d83-c9e1-4b58-8ca8-0d35562bc210
 
-## Tech Stack
-
-- Python
-- Streamlit
-- Pandas
-- Plotly
-- Natural Language Query Interface
-
-
 ## Key Features
 - Dataset upload and automatic KPI generation
 - Conversational data analysis
