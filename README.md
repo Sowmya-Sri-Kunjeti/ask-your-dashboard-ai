@@ -18,17 +18,18 @@ Instead of manually exploring dashboards, users can upload a dataset and interac
 
 ## Project Demo
 
+
 ### Dashboard Overview
 ![Dashboard](dashboard.png)
 
 ### Sales by Region
-![Region Sales](screenshots/region-sales.png)
+![Region Sales](region-sales.png)
 
 ### Profit by Category
-![Category Profit](screenshots/category-profit.png)
+![Category Profit](category-profit.png)
 
 ### Sales Trend
-![Sales Trend](screenshots/sales-trend.png)
+![Sales Trend](sales-trend.png)
 
 ## Learning Outcomes
 - Building conversational analytics tools
