@@ -13,8 +13,10 @@ The goal of this project is to explore how AI-powered interfaces can enhance tra
 
 Key Features
 
+
 Dataset Upload
 Users can upload a CSV dataset containing business data such as sales, profit, and customer segments.
+
 
 KPI Dashboard
 The system automatically generates key performance indicators including:
@@ -26,6 +28,7 @@ Total Profit
 Average Discount
 
 Total Orders
+
 
 Conversational Data Analysis
 Users can ask questions about the dataset such as:
@@ -49,6 +52,7 @@ Distribution charts for performance insights
 
 Insight Generation
 Along with charts, the system produces short analytical explanations describing the patterns found in the data.
+
 
 Example Business Insights
 
