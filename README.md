@@ -6,6 +6,8 @@ This project demonstrates how conversational AI can simplify business analytics 
 
 Instead of manually exploring dashboards, users can upload a dataset and interact with it using natural language queries. The system analyzes the data, generates visualizations, and provides insights to support decision-making.
 
+This project was prototyped using Lovable, an AI-powered app builder, to explore conversational analytics and decision-support dashboards.
+
 ## Live Demo
 
 Try the dashboard here:  
