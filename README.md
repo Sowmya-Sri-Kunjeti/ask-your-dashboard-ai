@@ -1,8 +1,3 @@
-## Live Demo
-
-Try the dashboard here:  
-https://lovable.dev/projects/59733d83-c9e1-4b58-8ca8-0d35562bc210
-
 
 # Ask Your Dashboard – AI Decision Intelligence Assistant
 
@@ -10,6 +5,20 @@ https://lovable.dev/projects/59733d83-c9e1-4b58-8ca8-0d35562bc210
 This project demonstrates how conversational AI can simplify business analytics by allowing users to ask questions directly to their data.
 
 Instead of manually exploring dashboards, users can upload a dataset and interact with it using natural language queries. The system analyzes the data, generates visualizations, and provides insights to support decision-making.
+
+## Live Demo
+
+Try the dashboard here:  
+https://lovable.dev/projects/59733d83-c9e1-4b58-8ca8-0d35562bc210
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Natural Language Query Interface
+
 
 ## Key Features
 - Dataset upload and automatic KPI generation
@@ -44,7 +53,7 @@ Instead of manually exploring dashboards, users can upload a dataset and interac
 - Pandas
 - Plotly
 - Natural Language Query Interface
-- 
+
 
 ## Learning Outcomes
 - Building conversational analytics tools
